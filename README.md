@@ -1,2 +1,19 @@
-# Dice-Roller-App
-A simple and interactive Dice Roller web app built with HTML, CSS, and JavaScript. The project simulates rolling a dice at the click of a button and displays a random dice face between 1 and 6. Perfect for learning and practicing DOM manipulation and random number generation in JavaScript.
+# 🎲 Dice Roller App  
+
+A simple and fun **Dice Roller** project built using **HTML, CSS, and JavaScript**.  
+It simulates rolling a dice and shows a random number (1–6) each time you click the button.  
+
+---
+
+## 🚀 Features  
+- 🎲 Roll a dice with just one click  
+- 🔄 Random number generation (1–6)  
+- 🎨 Simple, clean, and responsive design  
+- ⚡ Built with HTML, CSS, and JavaScript only  
+
+---
+
+## 🛠️ Tech Stack  
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript** – Functionality  
